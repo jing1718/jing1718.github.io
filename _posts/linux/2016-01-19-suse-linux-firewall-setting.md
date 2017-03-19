@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "reading"
+category: "linux"
 title:  "SuSE linux 防火墙打开多端口"
 tags: [SuSE,linux,防火墙,端口]
 summary: "允许访问多个端口"
