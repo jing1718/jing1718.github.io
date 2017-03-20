@@ -17,6 +17,8 @@ author: 张晶晶
 email: jing1718#163.com
 github: jing1718
 
+encoding: UTF-8
+
 config:
   js_dir:
   img_dir:
