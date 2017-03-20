@@ -12,7 +12,7 @@ paginate_path: "page:num"
 # presonal config
 domain: jing1718.github.io
 title: 张晶晶
-description: Java, Linux, Hadoop, Spark
+description: Java, Linux, Oracle, Hadoop, Spark
 author: 张晶晶
 email: jing1718#163.com
 github: jing1718
